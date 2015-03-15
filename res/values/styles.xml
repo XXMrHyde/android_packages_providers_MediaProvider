@@ -16,7 +16,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="PickerDialogTheme" parent="@*android:style/Theme.DeviceDefault.Light.Dialog.Alert">
+    <style name="PickerDialogTheme" parent="@*android:style/Theme.DeviceDefault.Dialog.Alert">
         <!-- from Theme.Material.Settings -->
         <item name="android:colorPrimary">@*android:color/material_blue_grey_900</item>
         <item name="android:colorPrimaryDark">@*android:color/material_blue_grey_950</item>
